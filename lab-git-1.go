@@ -17,4 +17,5 @@ func main(){
 	fmt.Println("fff")
 	a,b := sumInt(5,6,8)
 	fmt.Println(a,b)
+	fmt.Println(b,a)
 }
